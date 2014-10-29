@@ -1,0 +1,2 @@
+man("vasya",3,4,5)
+man("nikola",5,5,5)
